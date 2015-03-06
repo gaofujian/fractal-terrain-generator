@@ -32,6 +32,7 @@ var terrain = generateTerrain(32, 32, 1.0);
 The result `terrain` will be a (width + 1) &times; (height + 1) two-dimensional array containing the elevation of each vertex.
 
 License
+Hello
 -------
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
